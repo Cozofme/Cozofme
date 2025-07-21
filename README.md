@@ -18,7 +18,7 @@ I'm a passionate developer dedicated to building innovative web and software sol
 - [StudyBuddy](https://github.com/Cozofme/StudyBuddy): Your friendly companion for smarter studying and seamless productivity.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cozofme)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-das009)
 
 ---
 
