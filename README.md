@@ -14,7 +14,7 @@ I'm a passionate developer dedicated to building innovative web and software sol
 
 ## 🌟 Featured Projects
 
-- [Ruvi AI](https://github.com/Cozofme/Ruvi-ai): Unlocking the power of artificial intelligence for everyone.
+- [Ruvi AI](https://ruvi-ai.vercel.app): Unlocking the power of artificial intelligence for everyone.
 - **StudyBuddy**: Coming soon – your friendly companion for smarter studying and seamless productivity.
 
 ## 📫 Connect with Me
